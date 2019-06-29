@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+        <item android:title="User">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x11"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x11" />
+                <item
+                    android:id="@+id/menu_x12"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x12" />
+                <item
+                    android:id="@+id/menu_x13"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x13" />
+                <item
+                    android:id="@+id/menu_x14"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x14" />
+                </group>
+            </menu>
+        </item>
+
+
+        <item android:title="Academic Section">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x21"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x21" />
+                <item
+                    android:id="@+id/menu_x22"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x22" />
+                <item
+                    android:id="@+id/menu_x23"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x23" />
+                <item
+                    android:id="@+id/menu_x24"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x24" />
+                <item
+                    android:id="@+id/menu_x25"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x25" />
+                <item
+                    android:id="@+id/menu_x26"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x26" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Attendance Section">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x31"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x31" />
+                <item
+                    android:id="@+id/menu_x32"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x32" />
+                <item
+                    android:id="@+id/menu_x33"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x33" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Exam Section">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x41"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x41" />
+                <item
+                    android:id="@+id/menu_x42"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x42" />
+                <item
+                    android:id="@+id/menu_x43"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x43" />
+                <item
+                    android:id="@+id/menu_x44"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x44" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Mark Section">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x51"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x51" />
+                <item
+                    android:id="@+id/menu_x52"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x52" />
+                <item
+                    android:id="@+id/menu_x53"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x53" />
+                <item
+                    android:id="@+id/menu_x54"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x54" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Media Section">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x61"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x61" />
+                <item
+                    android:id="@+id/menu_x62"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x62" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Online Exam">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x71"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x71" />
+                <item
+                    android:id="@+id/menu_x72"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x72" />
+                <item
+                    android:id="@+id/menu_x73"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x73" />
+                <item
+                    android:id="@+id/menu_x74"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x74" />
+                <item
+                    android:id="@+id/menu_x75"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x75" />
+                <item
+                    android:id="@+id/menu_x76"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x76" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Payroll">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x81"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x81" />
+                <item
+                    android:id="@+id/menu_x82"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x82" />
+                <item
+                    android:id="@+id/menu_x83"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x83" />
+                <item
+                    android:id="@+id/menu_x84"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x84" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Asset Management">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x91"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x91" />
+                <item
+                    android:id="@+id/menu_x92"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x92" />
+                <item
+                    android:id="@+id/menu_x93"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x93" />
+                <item
+                    android:id="@+id/menu_x94"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x94" />
+                <item
+                    android:id="@+id/menu_x95"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x95" />
+                <item
+                    android:id="@+id/menu_x96"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x96" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Inventory">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x101"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x101" />
+                <item
+                    android:id="@+id/menu_x102"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x102" />
+                <item
+                    android:id="@+id/menu_x103"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x103" />
+                <item
+                    android:id="@+id/menu_x104"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x104" />
+                <item
+                    android:id="@+id/menu_x105"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x105" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Leave Application">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x111"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x111" />
+                <item
+                    android:id="@+id/menu_x112"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x112" />
+                <item
+                    android:id="@+id/menu_x113"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x113" />
+                <item
+                    android:id="@+id/menu_x114"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x114" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Child">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x121"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x121" />
+                <item
+                    android:id="@+id/menu_x122"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x122" />
+                <item
+                    android:id="@+id/menu_x123"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x123" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Library">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x131"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x131" />
+                <item
+                    android:id="@+id/menu_x132"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x132" />
+                <item
+                    android:id="@+id/menu_x133"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x133" />
+                <item
+                    android:id="@+id/menu_x134"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x134" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Transport">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x141"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x141" />
+                <item
+                    android:id="@+id/menu_x142"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x142" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Hostel">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x151"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x151" />
+                <item
+                    android:id="@+id/menu_x152"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x152" />
+                <item
+                    android:id="@+id/menu_x153"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x153" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Account">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x161"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x161" />
+                <item
+                    android:id="@+id/menu_x162"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x162" />
+                <item
+                    android:id="@+id/menu_x163"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x163" />
+                <item
+                    android:id="@+id/menu_x164"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x164" />
+                <item
+                    android:id="@+id/menu_x165"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x165" />
+                <item
+                    android:id="@+id/menu_x166"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x166" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Announcement">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x171"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x171" />
+                <item
+                    android:id="@+id/menu_x172"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x172" />
+                <item
+                    android:id="@+id/menu_x173"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x173" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Report">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x181"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x181" />
+                <item
+                    android:id="@+id/menu_x182"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x182" />
+                <item
+                    android:id="@+id/menu_x183"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x183" />
+                <item
+                    android:id="@+id/menu_x184"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x184" />
+                <item
+                    android:id="@+id/menu_x185"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x185" />
+                <item
+                    android:id="@+id/menu_x186"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x186" />
+                <item
+                    android:id="@+id/menu_x187"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x187" />
+                <item
+                    android:id="@+id/menu_x188"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x188" />
+                <item
+                    android:id="@+id/menu_x189"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x189" />
+                <item
+                    android:id="@+id/menu_x1810"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x1810" />
+                <item
+                    android:id="@+id/menu_x1811"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x1811" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Visitor Information">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x191"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x191" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Admin - Academic Year">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x201"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x201" />
+                <item
+                    android:id="@+id/menu_x202"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x202" />
+                <item
+                    android:id="@+id/menu_x203"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x203" />
+                <item
+                    android:id="@+id/menu_x204"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x204" />
+                <item
+                    android:id="@+id/menu_x205"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x205" />
+                <item
+                    android:id="@+id/menu_x206"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x206" />
+                <item
+                    android:id="@+id/menu_x207"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x207" />
+                <item
+                    android:id="@+id/menu_x208"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x208" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Roles">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x211"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x211" />
+                <item
+                    android:id="@+id/menu_x212"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x212" />
+                <item
+                    android:id="@+id/menu_x213"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x213" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Frontend">
+            <menu>
+                <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/menu_x221"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x221" />
+                <item
+                    android:id="@+id/menu_x222"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x222" />
+                <item
+                    android:id="@+id/menu_x223"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x223" />
+                <item
+                    android:id="@+id/menu_x224"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_x224" />
+                </group>
+            </menu>
+        </item>
+
+</menu>

@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">AmazIngIT</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">AmazIngIT</string>
+    <string name="nav_header_subtitle">amazingit@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="menu_x11">Student</string>
+    <string name="menu_x12">Parents</string>
+    <string name="menu_x13">Teacher</string>
+    <string name="menu_x14">User</string>
+
+    <string name="menu_x21">Classes</string>
+    <string name="menu_x22">Section</string>
+    <string name="menu_x23">Subject</string>
+    <string name="menu_x24">Syllabus</string>
+    <string name="menu_x25">Assignment</string>
+    <string name="menu_x26">Routine</string>
+
+    <string name="menu_x31">S attendance</string>
+    <string name="menu_x32">T attendance</string>
+    <string name="menu_x33">U attendance</string>
+
+    <string name="menu_x41">Exam</string>
+    <string name="menu_x42">Exam Schedule</string>
+    <string name="menu_x43">Grade</string>
+    <string name="menu_x44">E attendance</string>
+
+    <string name="menu_x51">Mark</string>
+    <string name="menu_x52">Mark Percentage</string>
+    <string name="menu_x53">Promotion</string>
+    <string name="menu_x54">Conversation</string>
+
+    <string name="menu_x61">Media</string>
+    <string name="menu_x62">Mail and Sms</string>
+
+    <string name="menu_x71">Question Group</string>
+    <string name="menu_x72">Question Level</string>
+    <string name="menu_x73">Question Bank</string>
+    <string name="menu_x74">Online Exam</string>
+    <string name="menu_x75">Instruction</string>
+    <string name="menu_x76">Take Exam</string>
+
+    <string name="menu_x81">Salary Template</string>
+    <string name="menu_x82">Hourly Template</string>
+    <string name="menu_x83">Manage Salary</string>
+    <string name="menu_x84">Make Payment</string>
+
+    <string name="menu_x91">Vendor</string>
+    <string name="menu_x92">Location</string>
+    <string name="menu_x93">Asset Category</string>
+    <string name="menu_x94">Asset</string>
+    <string name="menu_x95">Asset Assignment</string>
+    <string name="menu_x96">Purchase</string>
+
+    <string name="menu_x101">Product Warehouse</string>
+    <string name="menu_x102">Product supplier</string>
+    <string name="menu_x103">Product Purchase</string>
+    <string name="menu_x104">Product sale</string>
+    <string name="menu_x105">Product</string>
+
+    <string name="menu_x111">Leave Category</string>
+    <string name="menu_x112">Leave Assign</string>
+    <string name="menu_x113">Leave Apply</string>
+    <string name="menu_x114">Leave Application</string>
+
+    <string name="menu_x121">Activities Category</string>
+    <string name="menu_x122">Activities</string>
+    <string name="menu_x123">Child Care</string>
+
+    <string name="menu_x131">Library Member</string>
+    <string name="menu_x132">Book</string>
+    <string name="menu_x133">Issue</string>
+    <string name="menu_x134">E-books</string>
+
+    <string name="menu_x141">Transport</string>
+    <string name="menu_x142">Transport Member</string>
+
+    <string name="menu_x151">Hostel</string>
+    <string name="menu_x152">Category</string>
+    <string name="menu_x153">Hostel Member</string>
+
+    <string name="menu_x161">Fee type</string>
+    <string name="menu_x162">Invoice</string>
+    <string name="menu_x163">Expanse</string>
+    <string name="menu_x164">Payment history</string>
+    <string name="menu_x165">Income</string>
+    <string name="menu_x166">Global Payment</string>
+
+
+    <string name="menu_x171">Notice</string>
+    <string name="menu_x172">Event</string>
+    <string name="menu_x173">holiday</string>
+
+    <string name="menu_x181">Classes Report</string>
+    <string name="menu_x182">Student Report</string>
+    <string name="menu_x183">Id Card report</string>
+    <string name="menu_x184">Admit card report</string>
+    <string name="menu_x185">Routine report</string>
+    <string name="menu_x186">Exam schedule report</string>
+    <string name="menu_x187">Attendance Report</string>
+    <string name="menu_x188">Attendance Over View Report</string>
+    <string name="menu_x189">Library Book Issue Report</string>
+    <string name="menu_x1810">Library Books Report</string>
+    <string name="menu_x1811">Library Card Report</string>
+
+    <string name="menu_x191">Visitor Info</string>
+
+    <string name="menu_x201">School Year</string>
+    <string name="menu_x202">Student Group</string>
+    <string name="menu_x203">Complain</string>
+    <string name="menu_x204">Certificate Template</string>
+    <string name="menu_x205">System Admin</string>
+    <string name="menu_x206">Reset Password</string>
+    <string name="menu_x207">Bulk import</string>
+    <string name="menu_x208">Backup</string>
+
+    <string name="menu_x211">User Type</string>
+    <string name="menu_x212">Permission</string>
+    <string name="menu_x213">update</string>
+
+    <string name="menu_x221">Frontend Menu</string>
+    <string name="menu_x222">Posts Categories</string>
+    <string name="menu_x223">posts</string>
+    <string name="menu_x224">Pages</string>
+
+    <string name="menu_x231">Setting</string>
+    <string name="menu_x232">Frontend Setting</string>
+    <string name="menu_x233">Payment Setting</string>
+    <string name="menu_x234">Sms Setting</string>
+    <string name="menu_x235">Email Setting</string>
+</resources>
